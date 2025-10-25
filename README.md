@@ -49,25 +49,13 @@ To work on this project:
 💬 Comment your thoughts or questions under the tutorial!  
 🔔 Subscribe to the channel for more Power BI tutorials, data projects, and BI techniques.
 
----
 
-## 🌐 Visit Pianalytix for More Resources
 
-🔗 **Website**: [https://pianalytix.com](https://pianalytix.com)  
-Explore 300+ hands-on Data Science, Power BI, and Development projects.
 
 ---
 
-## 📲 Connect with Pianalytix:
 
-✅ **Instagram**: [@pianalytix.official](https://www.instagram.com/pianalytix.official/)  
-✅ **LinkedIn**: [Pianalytix](https://www.linkedin.com/company/pianalytix/)  
-✅ **YouTube**: [@pianalytixofficial](https://m.youtube.com/@pianalytixofficial)
 
 ---
 
-## 📘 Explore Our Udemy Courses:
 
-- 📌 [Build 45 Real-World Power BI Projects for BI & Data Analysts](https://www.udemy.com/course/data-analytics-course-power-bi-tableau/?couponCode=NOV2024)  
-- 📌 [Data Science Bundle: 180 Hands-On Projects](https://www.udemy.com/course/data-science-projects-mastering-the-real-life-analytics/?couponCode=NOV2024)  
-- 📌 [100 Days of Code: Real-World Data Science Projects Bootcamp](https://www.udemy.com/course/hands-on-data-science-build-real-world-projects/?couponCode=NOV2024)
